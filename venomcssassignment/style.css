@@ -1,0 +1,26 @@
+.bgl{
+    text-decoration: line-through;
+}
+.str2{
+    background-color: yellow;
+    font-weight: bold;
+}
+ul{
+    color:#8e2525;
+    letter: spacing 4px;
+}
+a{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
+li.p{
+    color:#8e2525
+}
+h2{
+    font-style: italic;
+    color: red;
+}
+p{
+    color: #8e2525;
+}
